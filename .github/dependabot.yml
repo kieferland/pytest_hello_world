@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/pytest_hello_world"
+    schedule:
+      interval: "daily"
